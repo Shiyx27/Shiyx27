@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Confetti" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGY0cjNsaWFzZHBmdXdvYjVnYW40cDI5NWJxd2VkM3NibnRidWs5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Wp0ZtQjgViqR2/giphy.gif" alt="Confetti" width="200"/>
 </p>
 
 <h1 align="center">Hey there, I’m <span style="color:#ff69b4;">Shiyamaladei R S</span>! 👋</h1>
