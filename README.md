@@ -1,6 +1,6 @@
 ## Hi there 👋
-Am ##Shiyamaladei R S## and am not really good with coding but i really enjoy vibe coding 😉.
--👯 I’m looking to collaborate on fun hackathons 
+Am **Shiyamaladei R S** and am not really good with coding but i really enjoy vibe coding 😉.
+ - 👯 I’m looking to collaborate on fun hackathons 
 
 ![My cool animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjllejFyb3g2Ynl2Z2hpbjl2Zm9hZ2pnamkzODh5dTVrN3VubW8xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
 
