@@ -18,13 +18,12 @@
 ## 🔭 What I'm Up To
 - 👯 I’m looking to collaborate on **fun hackathons** & creative side‑projects  
 - 🌱 Currently learning to sprinkle AI magic into everything!  
-- 💬 Ping me to chat about Python, Fantacy/Sci-Fic Books, or your next cool idea  
+- 💬 Ping me to chat about Python, Fantasy/Sci-Fic books, or your next cool idea  
 
 
 ## ✨ Fun Facts
 - 🦄 I believe unicorns exist… they’re just hiding in code!  
-- ☕ Fuel: 3 cups of coffee per day  
-- 🎵 Coding playlist: Anything with a good beat & lyrics  
+ 
 
 ---
 
