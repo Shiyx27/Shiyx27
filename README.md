@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRhZWVybW8xazV2aGN2NWl1dXBoN24yOHFoeWl6NDJuaWs4cjE4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JEhCPFfqi2Hy8/giphy.gif" alt="Happy coding" width="420"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3YyYTNlbXdkeWdicXJ5NGxsbW1rYW05OGJnMDl2Y2Y0eGRzb2h3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nBd6bxlpJ132g/giphy.gif" alt="Happy coding" width="420"/>
 </p>
 
 <p align="center">
