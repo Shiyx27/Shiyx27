@@ -35,7 +35,7 @@
 
 ## ✨ Fun Facts
 - 🦄 I believe unicorns exist… they’re just hiding in code!  
-- ☕ Fuel: 3 cups of chai per day  
+- ☕ Fuel: 3 cups of coffee per day  
 - 🎵 Coding playlist: Anything with a good beat & zero lyrics  
 
 ---
