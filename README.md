@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGY0cjNsaWFzZHBmdXdvYjVnYW40cDI5NWJxd2VkM3NibnRidWs5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Wp0ZtQjgViqR2/giphy.gif" alt="Confetti" width="500"/>
-</p>
 
 <h1 align="center">Hey there, I’m <span style="color:#ff69b4;">Shiyamaladevi R S</span>! 👋</h1>
 
@@ -28,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3YyYTNlbXdkeWdicXJ5NGxsbW1rYW05OGJnMDl2Y2Y0eGRzb2h3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nBd6bxlpJ132g/giphy.gif" alt="Happy coding" width="420"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s3a3cxNHVkcGRnMHdiZ2dqd3BtbTlodWt5dWp3ZXM4OGJtNG9iMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tHIRLHtNwxpjIFqPdV/giphy.gif" alt="Happy coding" width="420"/>
 </p>
 
 <p align="center">
