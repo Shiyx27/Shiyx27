@@ -1,5 +1,10 @@
 
-<h1 align="center">Hey there, I’m <span style="color:#ff69b4;">Shiyamaladevi R S</span>! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Heyyy+there%2C+I'm+Shiyamaladevi+R+S!+👋;Welcome+to+my+vibe+zone+💜" alt="Typing SVG" />
+</p>
+
+<h1 align="center">Heyyy there, I’m <span style="color:#ff69b4;">Shiyamaladevi R S</span>! 👋</h1>
+
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjllejFyb3g2Ynl2Z2hpbjl2Zm9hZ2pnamkzODh5dTVrN3VubW8xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" alt="Coding vibes" width="550"/>
