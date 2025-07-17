@@ -31,5 +31,10 @@
 <p align="center">
   <em>“Let’s build something awesome together!”</em> 🚧🛠️  
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shiyx27&label=Profile%20views&color=ff69b4&style=flat" alt="ShiyamaladeviRS" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
