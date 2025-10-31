@@ -9,20 +9,15 @@
 
 <p align="center">  
   I may not be a code wizard… 🧙‍♂️  
-  but I sure love <strong>vibe coding</strong>! 😉  
+  but I sure <strong>believe unicorns exist</strong>! 😉  
 </p>
 
 ---
 
 ## 🔭 What I'm Up To
-- 👯 I’m looking to collaborate on **fun hackathons** & creative side‑projects  
-- 🌱 Currently learning to sprinkle AI magic into everything!  
+- 👯 I’m looking to collaborate on **fun hackathons** & creative side‑projects    
 - 💬 Ping me to chat about Python, Fantasy/Sci-Fic books, or your next cool idea  
 
-
-## ✨ Fun Facts
-- 🦄 I believe unicorns exist… they’re just hiding in code!  
- 
 
 ---
 
@@ -35,8 +30,4 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shiyx27&label=Profile%20views&color=ff69b4&style=flat" alt="ShiyamaladeviRS" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
